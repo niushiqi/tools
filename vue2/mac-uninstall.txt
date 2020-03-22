@@ -1,0 +1,8 @@
+1.查看版本
+  vue --version
+2.修改权限
+  sudo chmod -R 777 /usr/local/lib/node_modules/
+3.卸载
+  npm uninstall vue-cli -g
+4.确认
+  vue --version

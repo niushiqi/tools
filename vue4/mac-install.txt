@@ -1,0 +1,4 @@
+1.安装
+  npm install -g @vue/cli
+2.确认
+  vue -V
