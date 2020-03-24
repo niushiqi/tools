@@ -1,0 +1,4 @@
+1.启动
+    sudo php-fpm
+2.关闭
+    sudo killall php-fpm

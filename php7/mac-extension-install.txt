@@ -1,0 +1,24 @@
+1.下载扩展，并解压
+
+2.将文件夹移动到/usr/local/目录
+
+3.输入命令生成php文件
+    sudo phpize
+4.配置扩展
+    ./configure --with-php-config=/usr/bin/php-config
+5.编译
+    sudo make
+6.安装
+    sudo make install
+7.关闭SIP保护,防止install权限失败
+    1.重启
+    2.按住command + R
+    3.实用工具 - 终端 - 输入csrutil disable / csrutil enable
+    4.重启
+8.php.ini中添加扩展
+    vim /etc/php.ini
+    vim输入G,o
+    extension=redis.so
+9.重启php-fpm
+    sudo killall php-fpm
+    sudo php-fpm

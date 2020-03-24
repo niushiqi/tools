@@ -1,0 +1,4 @@
+1.php命令目录
+    /usr/bin/php
+2.php.ini目录
+    /etc/php.ini
