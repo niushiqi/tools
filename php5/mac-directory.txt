@@ -4,4 +4,3 @@
     /usr/local/php5/bin/php
 3.php-fpm配置目录
     /etc/php-fpm.conf
-4.

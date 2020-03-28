@@ -9,6 +9,6 @@
 1. [mac php7 文件位置](https://github.com/niushiqi/tools/blob/master/php7/mac-directory.txt)
 
 1. [mac php5 安装](https://github.com/niushiqi/tools/blob/master/php5/mac-install.txt)
-1. [mac php5 命令](https://github.com/niushiqi/tools/blob/master/php5/mac-directory.txt)
+1. [mac php5 文件位置](https://github.com/niushiqi/tools/blob/master/php5/mac-directory.txt)
 
 1. [mac mysql 命令](https://github.com/niushiqi/tools/blob/master/mysql/mac-command.txt)
