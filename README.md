@@ -12,3 +12,5 @@
 1. [mac php5 文件位置](https://github.com/niushiqi/tools/blob/master/php5/mac-directory.txt)
 
 1. [mac mysql 命令](https://github.com/niushiqi/tools/blob/master/mysql/mac-command.txt)
+
+1. [激活码](https://github.com/niushiqi/tools/blob/master/idea/active-code.txt)
