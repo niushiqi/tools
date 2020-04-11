@@ -13,4 +13,6 @@
 
 1. [mac mysql 命令](https://github.com/niushiqi/tools/blob/master/mysql/mac-command.txt)
 
+1. [mac redis操作](https://github.com/niushiqi/tools/blob/master/redis/mac-all.txt)
+
 1. [激活码](https://github.com/niushiqi/tools/blob/master/idea/active-code.txt)

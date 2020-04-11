@@ -1,0 +1,16 @@
+1.启动redis
+    redis-server /usr/local/etc/redis.conf
+
+2.关闭redis
+    redis-cli -a 123456 shutdown
+
+3.启动redis cli
+    redis-cli -a 123456
+
+4.设置redis后台运行及密码
+    vim /usr/local/etc/redis.conf
+    修改daemonize yes
+    修改requirepass 123456
+
+5.安装redis(未验证)
+    brew install redis
